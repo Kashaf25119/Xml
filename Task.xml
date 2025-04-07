@@ -2,13 +2,13 @@
 <ecommerce 
 xmlns:prod="https://www.products.com"
 xmlns:cust="https://www.customer.com">
- <prod: product_data>
-  <prod: product_name>Bata</prod: product_name>
-  <prod: product_cate>shoes</prod: product_cate>
-  <prod: product_price>3,000</prod: product_price>
- </prod: product_data>
- <cust: customer_details>
-  <cust: customer_name>Ahad</cust: customer_name>
-  <cust: customer_email>ahad123@gmail.com</cust: customer_email>
-</cust: customer_details>
+ <prod:product_data>
+  <prod:product_name>Bata</prod:product_name>
+  <prod:product_cate>shoes</prod:product_cate>
+  <prod:product_price>3,000</prod:product_price>
+ </prod:product_data>
+ <cust:customer_details>
+  <cust:customer_name>Ahad</cust:customer_name>
+  <cust:customer_email>ahad123@gmail.com</cust:customer_email>
+</cust:customer_details>
 </ecommerce>
