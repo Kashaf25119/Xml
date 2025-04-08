@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE library SYSTEM "library.dtd">
+<library>
+    <book id="B001">
+        <title>XML Fundamentals</title>
+        <author>John Doe</author>
+        <price>29.99</price>
+        <publisher>&pub;</publisher>
+    </book>
+    <book id="B002">
+        <title>Learning DTD</title>
+        <author>Jane Smith</author>
+        <price>39.50</price>
+        <publisher>&pub;</publisher>
+    </book>
+</library>
